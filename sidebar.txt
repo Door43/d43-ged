@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ged:home|Door43 (ged)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ged|d43-ged repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ged/archive/master.zip|d43-ged.zip]]
+
+**Recent Changes**
+{{changes>ns = ged}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ged|Ethnologue data]]
+
